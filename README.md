@@ -6,7 +6,10 @@
 
 🛠️ Technologies and Tools I use:
 
-SQL, Power BI, Data Studio, Python
+- SQL
+- Power BI
+- Data Studio
+- Python
 
 
 <!---
