@@ -4,6 +4,9 @@
 - 👩‍💻 I’m looking to collaborate on data analytics
 - 💻 Also looking for job opportunities in data analytics
 
+🛠️ Technologies and Tools I use:
+
+
 
 <!---
 RamintaB/RamintaB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
