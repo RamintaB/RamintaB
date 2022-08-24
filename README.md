@@ -2,6 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python, sql, data visualization 
 - 👩‍💻 I’m looking to collaborate on data analytics
+- 💻 Also looking for job opportunities in data analytics
 
 
 <!---
