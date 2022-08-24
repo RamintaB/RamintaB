@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RamintaB
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python, sql, data visualization 
-- 💞️ I’m looking to collaborate on data analytics
+- 👩‍💻 I’m looking to collaborate on data analytics
 
 
 <!---
