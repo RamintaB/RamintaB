@@ -6,9 +6,8 @@
 
 🛠️ Technologies and Tools I use:
 
-:lt: Lithuanian
-:uk: English
-:no: Norwegian  
+SQL, Power BI, Data Studio, Python
+
 
 <!---
 RamintaB/RamintaB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
